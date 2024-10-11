@@ -4,7 +4,7 @@
 
 ## Основни типове данни
 
-- bool - 1 bit - true / false;
+- bool - 1 byte - true / false;
 - char - 1 byte - [-128, 127] - свързан с ASCII таблица;
 - short - 2 bytes - [-2^15, 2^15 - 1];
 - int - 4 bytes - [-2^32, 2^32 - 1];
